@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0.0",
+  "domain": "radio_details",
+  "name": "Portuguese Radio Details",
+  "config_flow": true,
+  "documentation": "https://github.com/pmfernandes/radio_details",
+  "issue_tracker": "https://github.com/pmfernandes/radio_details/issues",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@pmfernandes"
+  ],
+  "iot_class": "cloud_polling"
+}
