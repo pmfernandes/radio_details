@@ -1,0 +1,13 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "Device is already configured"
+    },
+    "step": {
+      "user": {
+        "title": "Add Portuguese Radio Details",
+        "description": "Integration to add Portuguese radio sensors"
+      }
+    }
+  }
+}
