@@ -103,7 +103,7 @@ class BaseSensor(SensorEntity):
         self._attr_icon = icon
         self._attr_native_value = state
         self._attr_device_info = DeviceInfo(
-            identifiers={(DOMAIN, DEVICE_UNIQUE_ID)},
+            identifiers={(DOMAIN, unique_id)},
             name=name,
             manufacturer=DEVICE_MANUFACTURER,
             default_model=DEVICE_DEFAULT_MODEL,
